@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Video Full</title>
+    
+        <link rel="stylesheet" href="css.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>    
+<body> 
+<Center>
+    <h1>Video Full HD</h1>
+<video width="480" controls>
+  <source src="/Full.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+<h3>
+Video courtesy of facebook
+<a href="https://www.facebook.com/Video-Sex-107469524512322/" target="_blank">Video Sex</a> and Youtube  
+<a href="https://www.youtube.com/channel/UCjjNAIX8Rw2BO0j7IWqGipQ" target="_blank">Link Full</a> 
+</h3>
+</Center>
+</body> 
+</html>
